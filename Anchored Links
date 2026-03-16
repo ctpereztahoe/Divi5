@@ -5,10 +5,10 @@ Anhor Link in menu item, process is the same as Divi 4:
   Open Custom Link widget
   Use #CustomLink name (must be unique to this menu)
   Complete fields (basic)
-Open Page in Divi 5 daashboard
+Open Page in Divi 5 dashboard
 Recommend opening the Layers panel on left column to identify specific Section, Row, or Module to insert CSS ID
 Locate place where you desire the anchor
-On left panel in Divi dashboard, selects:
+On left panel in Divi dashboard, select:
   Advanced
   Attributes
   Add Attribute
