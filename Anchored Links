@@ -14,4 +14,7 @@ On left panel in Divi dashboard, select:
   Add Attribute
   Attrtibute Name = "id"
   Attribute value must exactly match the name given from menu item = "CustonLink"
+
+Update: If an anchored link does not work, usually due to human error (typo), delete it, and recreate it.
+I got stuck in a circle after editing an anchor several times to no avail. Delte and recrete worked.
 END 
